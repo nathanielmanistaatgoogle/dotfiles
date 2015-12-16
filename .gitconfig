@@ -1,0 +1,5 @@
+[user]
+    email = nathaniel@google.com
+    name = Nathaniel Manista
+[core]
+    editor = emacs
